@@ -86,6 +86,3 @@ Including:
 - Risk assessment summaries
 - Charts used in the investment memo
 
-## Reproducibility Notes
-
-All analytical logic is fully scripted and deterministic given identical data snapshots. No manual spreadsheet operations are required. This ensures full reproducibility and independent auditability.
