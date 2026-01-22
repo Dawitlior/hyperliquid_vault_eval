@@ -1,0 +1,12 @@
+import requests
+import pandas as pd
+from pathlib import Path
+
+# -----------------------------
+# Config
+# -----------------------------
+PROTOCOL_SLUG = "hyperliquid"
+OUTPUT_PATH = Path("data/raw/hyperliquid_tvl.csv")
+
+# -----------------------------
+# Fetch TVL
