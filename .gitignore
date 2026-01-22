@@ -1,0 +1,14 @@
+.venv/
+bin/
+lib/
+pyvenv.cfg
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.idea/
+.vscode/
+*.log
+coverage/
+htmlcov/
+dist/               
